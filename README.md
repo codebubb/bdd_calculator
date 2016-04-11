@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/codebubb/bdd_calculator.svg?branch=master)](https://travis-ci.org/codebubb/bdd_calculator)
 # BDD Calculator
 ## With Jasmine
 
