@@ -1,0 +1,3 @@
+// Include required program files
+var src = require('../app/calculator.js');
+// Specs...

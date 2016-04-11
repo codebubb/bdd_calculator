@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "An example for BDD using Jasmine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon --exec -q ./node_modules/.bin/jasmine-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codebubb/bdd_example.git"
+  },
+  "author": "James Bubb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codebubb/bdd_example/issues"
+  },
+  "homepage": "https://github.com/codebubb/bdd_example#readme",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
