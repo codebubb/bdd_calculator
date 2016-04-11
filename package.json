@@ -4,7 +4,7 @@
   "description": "An example for BDD using Jasmine.",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon --exec -q ./node_modules/.bin/jasmine-node"
+    "test": "nodemon -q --exec ./node_modules/.bin/jasmine-node spec"
   },
   "repository": {
     "type": "git",
